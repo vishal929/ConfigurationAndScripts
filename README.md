@@ -1,0 +1,1 @@
+This project holds configuration files and useful scripts that I may need in the future
